@@ -1,0 +1,13 @@
+1. only for one user
+2. contains 3 data fields:
+  a. website
+  b. user name
+  c. password
+3. search functionality. user must be able to search password for any website or list all its
+    password stored.
+4. edit the password if changed
+5. delete any entry
+
+
+to learn
+1. sql or sqlite database in python
